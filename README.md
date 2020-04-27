@@ -2,8 +2,6 @@
 
 Samsung SmartTV Player widget for [TV Headend](https://tvheadend.org).
 
-:warning: **Warning**: This repository is no longer maintained. Feel free to fork and customize it. :warning:
-
 ## Compatibility
 
 :warning: I've only tested it with my 2011 Samsung TV - UE40D6500, but it's very likely this would work with 2012/2013 TVs as well.
